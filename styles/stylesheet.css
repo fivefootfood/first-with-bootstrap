@@ -1,0 +1,11 @@
+body {
+	padding-top: 70px;
+}
+
+.container {
+	text-align: right;
+}
+
+.jumbotron {
+	text-align: left;
+}
